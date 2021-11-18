@@ -1,0 +1,20 @@
+#summary {
+    font-family: "Roboto";
+    background-color: yellow;
+    font-size: large;
+    
+}
+button {
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+body {
+    border: 2px solid black;
+    width: 150px;
+}
+div {
+    text-align: center;
+}
+   
+
